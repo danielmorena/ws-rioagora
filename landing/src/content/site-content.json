@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "RioAgora.org — Um Rio de futuros",
+    "description": "Iniciativa apartidária que promove debates públicos sobre temas essenciais para o Estado do Rio de Janeiro.",
+    "ogImage": "/images/brand/RioAgora_RGB.png",
+    "url": "https://rioagora.org"
+  },
+  "hero": {
+    "title": "Um <br/>Rio de<br/>Futuros",
+    "slides": [
+      { "src": "/images/hero/slide-01.jpg", "alt": "Vista aérea do Rio de Janeiro" },
+      { "src": "/images/hero/slide-02.jpg", "alt": "Paisagem urbana do Rio de Janeiro" },
+      { "src": "/images/hero/slide-03.jpg", "alt": "Rio de Janeiro ao entardecer" },
+      { "src": "/images/hero/slide-04.jpg", "alt": "Vista panorâmica do Rio de Janeiro" }
+    ]
+  },
+  "about": {
+    "title": "O que somos",
+    "content": "<p>Em um ano marcado por eleições, <strong>RioAgora.org</strong> é uma iniciativa apartidária, sem fins lucrativos e de duração limitada que promove debates públicos sobre temas essenciais para o Estado do Rio de Janeiro. O objetivo é qualificar a discussão eleitoral e influenciar planos de governo e agendas legislativas dos candidatos a governador, senador e deputados federais e estaduais.</p><p>Ao longo do primeiro semestre de 2026, <strong>RioAgora.org</strong> organiza encontros com especialistas, promove escuta pública estruturada e usa tecnologia para transformar conhecimento disperso – estudos, dados, referências – em prioridades claras, caminhos de implementação e indicadores de acompanhamento.</p><p>O resultado é um documento público organizado em capítulos temáticos – uma agenda mínima e prioritária focada em viabilidade, impacto e entrega. Não é campanha. É engenharia de políticas públicas e implementação, com máxima inteligência e máximo pragmatismo, para o Estado do Rio de Janeiro.</p>"
+  },
+  "team": {
+    "title": "Quem Somos",
+    "members": [
+      {
+        "name": "Guilherme Cezar Coelho",
+        "bio": "<p>Formado em economia pela Universidade Stanford, é fundador da <strong>República.org</strong>, organização dedicada a promover a excelência do serviço público brasileiro, e da <strong>MaisProgresso.org</strong>, dedicada a políticas econômicas para maior crescimento e melhor distribuição de renda. Como cineasta, dirigiu filmes como <em>Fala tu</em> (2004), <em>Órfãos do Eldorado</em> (2015) e <em>Oceânico</em>, a ser lançado em 2026.</p>",
+        "image": "/images/people/antoine-lousao.webp"
+      },
+      {
+        "name": "Eloy H.S. Oliveira",
+        "bio": "<p>Doutorando (ABD) em Políticas Públicas na Lyndon B. Johnson School of Public Affairs, da Universidade do Texas em Austin, é bacharel em Direito pela UFMG e mestre em Administração Pública pela Columbia University. Atuou por quase uma década no Governo de Minas Gerais e, posteriormente, foi diretor e membro do Conselho da <strong>República.org</strong>, liderando projetos com governos e parceiros internacionais voltados ao fortalecimento da gestão pública por meio de dados, pesquisa e reformas baseadas em evidências, além de iniciativas de inclusão e desenvolvimento de lideranças no setor público.</p>",
+        "image": "/images/people/antoine-lousao.webp"
+      },
+      {
+        "name": "Isabel De Luca",
+        "bio": "<p>Jornalista com pós-graduação na Universidade da Califórnia em Los Angeles (UCLA), trabalhou por mais de 20 anos nas redações do <em>Jornal do Brasil</em> e do <em>Globo</em>, onde atuou como repórter, editora e correspondente em Nova York. De 2017 a 2022, foi head da Hysteria, plataforma de mídia e entretenimento centrada em narrativas femininas da produtora Conspiração. É criadora, roteirista e produtora de uma trilogia de documentários sobre mulheres: <em>De Você Fiz Meu Samba</em>, <em>Helô</em> e <em>Mulheres Radicais</em>.</p>",
+        "image": "/images/people/antoine-lousao.webp"
+      },
+      {
+        "name": "Julia Paiva",
+        "bio": "<p>Com mais de 20 anos de experiência em finanças corporativas, atuou como diretora financeira da Asgaard Navegação, foi sócia e diretora financeira de sociedade de investimentos e gestão do setor imobiliário e assessora financeira do Bank of America. Formada em Economia, tem MBA na Fundação Getúlio Vargas e é também conselheira profissional pela FGV.</p>",
+        "image": "/images/people/antoine-lousao.webp"
+      }
+    ],
+    "footer": "<p><strong>RioAgora.org</strong> é uma ação da <strong>República.org</strong>, organização também apartidária e sem fins lucrativos que há dez anos se dedica à melhoria da gestão de pessoas no serviço público brasileiro. O financiamento é de <a href=\"https://afloresta.org\" target=\"_blank\">AFloresta.org</a>, um coletivo de iniciativas com o objetivo de reduzir a desigualdade de renda no Brasil.</p>"
+  },
+  "agenda": {
+    "title": "Agenda",
+    "events": [
+      {
+        "label": "Debate 2",
+        "subtitle": "Saúde",
+        "date": "2026-03-09",
+        "dateDisplay": "9 de março",
+        "time": "16h",
+        "location": "Auditório do Palácio Capanema – Rua da Imprensa 16, Centro, Rio de Janeiro",
+        "image": "/images/agenda/capanema.jpg",
+        "participants": [
+          {
+            "name": "José Gomes Temporão",
+            "org": "ex-Ministro da Saúde",
+            "image": "/images/agenda/jose-gomes.png",
+            "bio": "Médico sanitarista e pesquisador com trajetória consolidada na saúde pública brasileira. Foi ministro da Saúde entre 2007 e 2010, período em que conduziu políticas estratégicas de fortalecimento do Sistema Único de Saúde (SUS), com ênfase na ampliação do acesso a medicamentos, na consolidação do complexo industrial da saúde e em ações de prevenção e promoção. Antes de assumir o ministério, atuou como diretor do Instituto Nacional de Câncer (INCA) e teve longa vinculação à Fundação Oswaldo Cruz (Fiocruz), onde desenvolveu pesquisas e atividades de gestão. É reconhecido pela atuação técnica e pelo protagonismo em debates estruturantes sobre financiamento, regulação e organização do sistema de saúde no Brasil."
+          },
+          {
+            "name": "Kelly Curitiba",
+            "org": "Secretaria Municipal de Saúde/RJ",
+            "image": "/images/agenda/kelly.png",
+            "bio": "Enfermeira, palestrante, professora facilitadora e servidora da Secretaria Municipal de Saúde/RJ. Atua na Sala Lilás/IML Campo Grande, acolhendo pessoas em situações de violências. Pós-graduada em Equidade na Gestão do Trabalho e da Educação no Sistema Único de Saúde/MS, é também especialista em enfermagem forense, em impactos da violência na saúde, em políticas públicas e sociais para mulheres, em docência do nível superior e em metodologias ativas. Assina coparticipações em capítulos de livros sobre a temática da violência doméstica e de gênero e foi vencedora do Prêmio Espírito Público, na categoria Saúde, em 2024."
+          },
+          {
+            "name": "Lígia Bahia",
+            "org": "UFRJ",
+            "image": "/images/agenda/ligia-bahia.png",
+            "bio": "Médica sanitarista, professora da Universidade Federal do Rio de Janeiro (UFRJ) e uma das principais referências no campo da saúde coletiva no Brasil. É Cientista do Nosso Estado, título concedido pela Fundação Carlos Chagas Filho de Amparo à Pesquisa do Estado do Rio de Janeiro (Faperj), e pesquisadora de produtividade do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). Coordena o Grupo de Pesquisa e Documentação sobre Empresariamento da Saúde, dedicado ao estudo das relações público-privadas, da financeirização e da dinâmica empresarial no setor de saúde. Com ampla produção acadêmica e atuação destacada no debate público, desenvolve pesquisas sobre políticas de saúde, regulação, planos e seguros privados e os desafios estruturais do Sistema Único de Saúde (SUS), contribuindo para a formulação e a análise crítica de políticas públicas na área."
+          },
+          {
+            "name": "Miguel Lago",
+            "org": "Instituto de Estudos para Políticas de Saúde (IEPS) e Universidade de Princeton",
+            "image": "/images/agenda/miguel-lago.png",
+            "bio": "Cientista político formado pela Sciences Po Paris e mestre em Administração Pública pela mesma instituição, é diretor-executivo do Instituto de Estudos para Políticas de Saúde (IEPS) e professor visitante da Universidade de Princeton. Foi fundador e presidente das redes de mobilização Meu Rio e Nossas, iniciativas voltadas à participação cidadã e à incidência em políticas públicas."
+          },
+          {
+            "name": "Ricardo de Oliveira",
+            "org": "ex-Secretário de Saúde do ES",
+            "image": "/images/agenda/ricardo-oliveira.png",
+            "bio": "Engenheiro de produção, foi secretário estadual de Gestão e Recursos Humanos do Espírito Santo (ES) entre 2005 e 2010 e secretário estadual de Saúde do ES de 2015 a 2018. Publicou os livros \"Gestão Pública: Democracia e Eficiência\" (2012) e \"Gestão Pública e Saúde\" (2020) pela editora da FGV. É membro do comitê de filantropia da Umane e membro associado do observatório do gasto público do Insper."
+          }
+        ],
+        "mediator": {
+          "name": "Eloy H.S. Oliveira",
+          "role": "diretor executivo RioAgora.org"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© {year} RioAgora.org — Todos os direitos reservados.",
+    "tagline": "Um Rio de futuros",
+    "email": "contato@rioagora.org"
+  }
+}

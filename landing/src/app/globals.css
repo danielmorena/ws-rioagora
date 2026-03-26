@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-verde: #2B553C;
+  --color-laranja: #F37052;
+  --color-azul: #13BECF;
+}
+
+@layer base {
+  html {
+    @apply text-[calc(100vw/375*16)] md:text-[calc(100vw/1920*16)];
+  }
+
+  body {
+    @apply w-screen h-dvh md:h-screen scrollbar-hidden;
+    @apply text-[1rem] text-white bg-[#1a1a1a];
+  }
+
+  .-- {
+    @apply border-[1px] border-red-500;
+  }
+
+  .size-screen {
+    @apply w-screen h-dvh md:h-screen;
+  }
+}
+
+@utility scrollbar-hidden {
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
